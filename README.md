@@ -1,0 +1,1 @@
+# --nome-publicar-no-Rubygems-usos-cadwallion-publish-rubygems-action-v1.0.0
